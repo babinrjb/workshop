@@ -12,11 +12,13 @@ input{
     border: 3px solid rgb(7, 7, 7);
     background-color: rgb(141, 194, 136);
     color: rgb(15, 15, 14);
-    padding:20px 10px 5px 2px;
+    padding: 15px;
     border-radius: 10px;
+    margin-bottom: 4px ;
 }
 button {
     border: 4px solid rgb(221, 79, 79);
+    padding: 8px;
     border-radius: 10px;
 }
 #formid{
